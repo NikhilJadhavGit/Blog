@@ -1,0 +1,35 @@
+*{
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Abel', sans-serif;
+}
+.centerstage{
+  margin-left:auto;
+  margin-right: auto;
+}
+.custom-button{
+  margin:1em;
+  background-color:#333333;
+  border-color: #333333;
+}
+.custom-button:hover{
+  background-color: #000000;
+}
+.right-nav{
+  color:white;
+}
+.right-nav:hover{
+  color:#999999;
+}
+a{
+  color:#333333;
+}
+a:hover{
+  color:#000000;
+}
+.Welcome{
+  color:White;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+body{
+}
